@@ -1,12 +1,4 @@
-## Υλοποίηση Συστημάτων Βάσεων Δεδομένων
-
-### Χειμερινό Εξάμηνο 2020 – 2021
-
-# Άσκηση 2
-
-### Νικόλας Ηλιόπουλος Α.Μ. 1115201800332
-
-### Μιχάλης Βολάκης Α.Μ. 1115201800022
+## This was an exercise that i did on a class Implementation of Database Systems in University
 
 ---
 
